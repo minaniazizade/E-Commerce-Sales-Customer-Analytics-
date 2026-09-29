@@ -68,6 +68,8 @@ The SQL analysis covers several areas.
 
 The Power BI part of the project is designed to provide an interactive view of the e-commerce business.
 
+![](https://github.com/minaniazizade/E-Commerce-Sales-Customer-Analytics-/blob/main/Power%20BI/Screenshot_20260929_202214_Drive.jpg)
+
 The dashboard focuses on:
 
 - Sales performance
